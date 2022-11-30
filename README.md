@@ -11,7 +11,7 @@
 
 Skills: RAILS / RUBY / REACT / JS / SQL / HTML / CSS 
 
-- 🔭 I’m currently working on building projects 
+- 🔭 I’m currently working on learning python 
 - 👯 I’m looking to collaborate with Everyone 
 - 📫 How to reach me: tahjgdixon@gmail.com 
 - 😄 Pronouns: He/Him 
