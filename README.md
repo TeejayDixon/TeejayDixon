@@ -1,4 +1,4 @@
-## Hello there 👋! 
+## Hello there! 👋 
 
  ## I'm Tahjg "Teejay" Dixon, an Software Engineer residing in Las Vegas, NV.
  
