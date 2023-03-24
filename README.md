@@ -23,6 +23,4 @@ Skills: RAILS / RUBY / REACT / JS / SQL / HTML / CSS / Java
 [![trophy](https://github-profile-trophy.vercel.app/?username=TeejayDixon)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=TeejayDixon)  
-
 ![Profile views](https://gpvc.arturio.dev/TeejayDixon) 
