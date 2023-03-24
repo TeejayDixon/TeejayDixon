@@ -9,9 +9,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teejaydixon)](https://github.com/teejaydixon/github-readme-stats)
 
 
-Skills: RAILS / RUBY / REACT / JS / SQL / HTML / CSS 
+Skills: RAILS / RUBY / REACT / JS / SQL / HTML / CSS / Java
 
-- 🔭 I’m currently working on learning python 
+- 🔭 I’m currently working on learning Java 
 - 👯 I’m looking to collaborate with Everyone 
 - 📫 How to reach me: tahjgdixon@gmail.com 
 - 😄 Pronouns: He/Him 
