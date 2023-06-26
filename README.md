@@ -9,7 +9,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teejaydixon)](https://github.com/teejaydixon/github-readme-stats)
 
 
-
+![](https://komarev.com/ghpvc/?username=teejaydixon&color=brightgreen)
 
 
 <p align="left">
