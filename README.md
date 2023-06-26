@@ -31,4 +31,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=TeejayDixon)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![Profile views](https://gpvc.arturio.dev/TeejayDixon) 
+
